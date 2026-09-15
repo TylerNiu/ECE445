@@ -1,0 +1,22 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+
+# Generated build, simulation, and export files
+build/
+out/
+*.autosave
+*.bak
+*.log
+*.tmp
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
